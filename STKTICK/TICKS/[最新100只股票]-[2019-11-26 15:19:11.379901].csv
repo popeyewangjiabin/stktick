@@ -1,0 +1,739 @@
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<title>新股日历</title>
+<meta name=""keywords"" content=""新股日历"">
+<meta name=""description"" content=""新股日历"">
+<meta http-equiv=""Content-Type"" content=""text/html; charset=gb2312"" />
+<style>
+*{border:0;padding:0;margin:0;}
+body{color:#1c1c1c;font-family:\5FAE\8F6F\96C5\9ED1,\4E3D\9ED1 Pro;}
+table{border-collapse:collapse;width:300px;}
+th,td{height:30px;line-height:30px;font-size:14px;font-weight:normal;text-align:center;}
+thead th{height:38px;line-height:38px;border-bottom:1px solid #e6e6e6;}
+tbody tr:hover th{background:#f6f7f8;}
+a{color:#1c1c1c;text-decoration:none;}
+a:hover{color:#3d5ebf;}
+</style>
+</head>
+
+<body>
+
+<div class=""wrap"">
+	<table>
+	<thead>
+		<tr>
+			<th>日期</th>
+			<th>股票名称</th>
+			<th>申购代码</th>
+			<th>申购价格</th>
+		</tr>
+	</thead>
+	<tbody>
+								<tr>
+							<th>12-11</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603995/nc.shtml"">
+								甬金股份</a></th>
+							<th>732995</th>
+							<th>22.52</th>
+						</tr>
+								<tr>
+							<th>12-04</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz002970/nc.shtml"">
+								锐明技术</a></th>
+							<th>002970</th>
+							<th>--</th>
+						</tr>
+								<tr>
+							<th>12-04</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688037/nc.shtml"">
+								芯源微</a></th>
+							<th>787037</th>
+							<th>--</th>
+						</tr>
+								<tr>
+							<th>12-03</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603053/nc.shtml"">
+								成都燃气</a></th>
+							<th>732053</th>
+							<th>--</th>
+						</tr>
+								<tr>
+							<th>12-02</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688039/nc.shtml"">
+								当虹科技</a></th>
+							<th>787039</th>
+							<th>--</th>
+						</tr>
+								<tr>
+							<th>11-28</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh601658/nc.shtml"">
+								邮储银行</a></th>
+							<th>780658</th>
+							<th>5.50</th>
+						</tr>
+								<tr>
+							<th>11-27</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688218/nc.shtml"">
+								江苏北人</a></th>
+							<th>787218</th>
+							<th>17.36</th>
+						</tr>
+								<tr>
+							<th>11-27</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688198/nc.shtml"">
+								佰仁医疗</a></th>
+							<th>787198</th>
+							<th>23.68</th>
+						</tr>
+								<tr>
+							<th>11-26</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688258/nc.shtml"">
+								卓易信息</a></th>
+							<th>787258</th>
+							<th>26.49</th>
+						</tr>
+								<tr>
+							<th>11-25</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688399/nc.shtml"">
+								硕世生物</a></th>
+							<th>787399</th>
+							<th>46.78</th>
+						</tr>
+								<tr>
+							<th>11-22</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688118/nc.shtml"">
+								普元信息</a></th>
+							<th>787118</th>
+							<th>26.90</th>
+						</tr>
+								<tr>
+							<th>11-22</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688357/nc.shtml"">
+								建龙微纳</a></th>
+							<th>787357</th>
+							<th>43.28</th>
+						</tr>
+								<tr>
+							<th>11-21</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300809/nc.shtml"">
+								华辰装备</a></th>
+							<th>300809</th>
+							<th>18.77</th>
+						</tr>
+								<tr>
+							<th>11-21</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688358/nc.shtml"">
+								祥生医疗</a></th>
+							<th>787358</th>
+							<th>50.53</th>
+						</tr>
+								<tr>
+							<th>11-21</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300810/nc.shtml"">
+								中科海讯</a></th>
+							<th>300810</th>
+							<th>24.60</th>
+						</tr>
+								<tr>
+							<th>11-20</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688310/nc.shtml"">
+								迈得医疗</a></th>
+							<th>787310</th>
+							<th>24.79</th>
+						</tr>
+								<tr>
+							<th>11-20</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz002968/nc.shtml"">
+								新大正</a></th>
+							<th>002968</th>
+							<th>26.76</th>
+						</tr>
+								<tr>
+							<th>11-19</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz002969/nc.shtml"">
+								嘉美包装</a></th>
+							<th>002969</th>
+							<th>3.67</th>
+						</tr>
+								<tr>
+							<th>11-19</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300801/nc.shtml"">
+								泰和科技</a></th>
+							<th>300801</th>
+							<th>30.42</th>
+						</tr>
+								<tr>
+							<th>11-19</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300808/nc.shtml"">
+								久量股份</a></th>
+							<th>300808</th>
+							<th>11.04</th>
+						</tr>
+								<tr>
+							<th>11-14</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh601916/nc.shtml"">
+								浙商银行</a></th>
+							<th>780916</th>
+							<th>4.94</th>
+						</tr>
+								<tr>
+							<th>11-13</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300806/nc.shtml"">
+								斯迪克</a></th>
+							<th>300806</th>
+							<th>11.27</th>
+						</tr>
+								<tr>
+							<th>11-13</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603390/nc.shtml"">
+								通达电气</a></th>
+							<th>732390</th>
+							<th>10.07</th>
+						</tr>
+								<tr>
+							<th>11-12</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300798/nc.shtml"">
+								锦鸡股份</a></th>
+							<th>300798</th>
+							<th>5.53</th>
+						</tr>
+								<tr>
+							<th>11-12</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300805/nc.shtml"">
+								电声股份</a></th>
+							<th>300805</th>
+							<th>10.20</th>
+						</tr>
+								<tr>
+							<th>11-11</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688138/nc.shtml"">
+								清溢光电</a></th>
+							<th>787138</th>
+							<th>8.78</th>
+						</tr>
+								<tr>
+							<th>11-11</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688196/nc.shtml"">
+								卓越新能</a></th>
+							<th>787196</th>
+							<th>42.93</th>
+						</tr>
+								<tr>
+							<th>11-07</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688111/nc.shtml"">
+								金山办公</a></th>
+							<th>787111</th>
+							<th>45.86</th>
+						</tr>
+								<tr>
+							<th>11-06</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688101/nc.shtml"">
+								三达膜</a></th>
+							<th>787101</th>
+							<th>18.26</th>
+						</tr>
+								<tr>
+							<th>11-06</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300803/nc.shtml"">
+								指南针</a></th>
+							<th>300803</th>
+							<th>6.25</th>
+						</tr>
+								<tr>
+							<th>11-05</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688300/nc.shtml"">
+								联瑞新材</a></th>
+							<th>787300</th>
+							<th>27.28</th>
+						</tr>
+								<tr>
+							<th>11-05</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300796/nc.shtml"">
+								贝斯美</a></th>
+							<th>300796</th>
+							<th>14.25</th>
+						</tr>
+								<tr>
+							<th>11-05</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300802/nc.shtml"">
+								矩子科技</a></th>
+							<th>300802</th>
+							<th>22.04</th>
+						</tr>
+								<tr>
+							<th>10-30</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603489/nc.shtml"">
+								八方股份</a></th>
+							<th>732489</th>
+							<th>43.44</th>
+						</tr>
+								<tr>
+							<th>10-30</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300564/nc.shtml"">
+								筑博设计</a></th>
+							<th>300564</th>
+							<th>22.69</th>
+						</tr>
+								<tr>
+							<th>10-30</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz002967/nc.shtml"">
+								广电计量</a></th>
+							<th>002967</th>
+							<th>7.43</th>
+						</tr>
+								<tr>
+							<th>10-25</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688021/nc.shtml"">
+								奥福环保</a></th>
+							<th>787021</th>
+							<th>26.17</th>
+						</tr>
+								<tr>
+							<th>10-25</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688166/nc.shtml"">
+								博瑞医药</a></th>
+							<th>787166</th>
+							<th>12.71</th>
+						</tr>
+								<tr>
+							<th>10-25</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688288/nc.shtml"">
+								鸿泉物联</a></th>
+							<th>787288</th>
+							<th>24.99</th>
+						</tr>
+								<tr>
+							<th>10-25</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688128/nc.shtml"">
+								中国电研</a></th>
+							<th>787128</th>
+							<th>18.79</th>
+						</tr>
+								<tr>
+							<th>10-25</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688202/nc.shtml"">
+								美迪西</a></th>
+							<th>787202</th>
+							<th>41.50</th>
+						</tr>
+								<tr>
+							<th>10-25</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688389/nc.shtml"">
+								普门科技</a></th>
+							<th>787389</th>
+							<th>9.10</th>
+						</tr>
+								<tr>
+							<th>10-25</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688023/nc.shtml"">
+								安恒信息</a></th>
+							<th>787023</th>
+							<th>56.50</th>
+						</tr>
+								<tr>
+							<th>10-24</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688299/nc.shtml"">
+								长阳科技</a></th>
+							<th>787299</th>
+							<th>13.71</th>
+						</tr>
+								<tr>
+							<th>10-24</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688199/nc.shtml"">
+								久日新材</a></th>
+							<th>787199</th>
+							<th>66.68</th>
+						</tr>
+								<tr>
+							<th>10-24</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688363/nc.shtml"">
+								华熙生物</a></th>
+							<th>787363</th>
+							<th>47.79</th>
+						</tr>
+								<tr>
+							<th>10-24</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300800/nc.shtml"">
+								力合科技</a></th>
+							<th>300800</th>
+							<th>50.64</th>
+						</tr>
+								<tr>
+							<th>10-23</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688058/nc.shtml"">
+								宝兰德</a></th>
+							<th>787058</th>
+							<th>79.30</th>
+						</tr>
+								<tr>
+							<th>10-22</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688025/nc.shtml"">
+								杰普特</a></th>
+							<th>787025</th>
+							<th>43.86</th>
+						</tr>
+								<tr>
+							<th>10-22</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300797/nc.shtml"">
+								钢研纳克</a></th>
+							<th>300797</th>
+							<th>4.50</th>
+						</tr>
+								<tr>
+							<th>10-21</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688369/nc.shtml"">
+								致远互联</a></th>
+							<th>787369</th>
+							<th>49.39</th>
+						</tr>
+								<tr>
+							<th>10-21</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688366/nc.shtml"">
+								昊海生科</a></th>
+							<th>787366</th>
+							<th>89.23</th>
+						</tr>
+								<tr>
+							<th>10-18</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688108/nc.shtml"">
+								赛诺医疗</a></th>
+							<th>787108</th>
+							<th>6.99</th>
+						</tr>
+								<tr>
+							<th>10-17</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603610/nc.shtml"">
+								麒盛科技</a></th>
+							<th>732610</th>
+							<th>44.66</th>
+						</tr>
+								<tr>
+							<th>10-17</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300799/nc.shtml"">
+								左江科技</a></th>
+							<th>300799</th>
+							<th>21.48</th>
+						</tr>
+								<tr>
+							<th>10-16</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688098/nc.shtml"">
+								申联生物</a></th>
+							<th>787098</th>
+							<th>8.80</th>
+						</tr>
+								<tr>
+							<th>10-16</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz002963/nc.shtml"">
+								豪尔赛</a></th>
+							<th>002963</th>
+							<th>23.66</th>
+						</tr>
+								<tr>
+							<th>10-16</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688139/nc.shtml"">
+								海尔生物</a></th>
+							<th>787139</th>
+							<th>15.53</th>
+						</tr>
+								<tr>
+							<th>10-16</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz002965/nc.shtml"">
+								祥鑫科技</a></th>
+							<th>002965</th>
+							<th>19.89</th>
+						</tr>
+								<tr>
+							<th>10-14</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh601077/nc.shtml"">
+								渝农商行</a></th>
+							<th>780077</th>
+							<th>7.36</th>
+						</tr>
+								<tr>
+							<th>10-10</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300795/nc.shtml"">
+								米奥兰特</a></th>
+							<th>300795</th>
+							<th>14.27</th>
+						</tr>
+								<tr>
+							<th>10-09</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603815/nc.shtml"">
+								交建股份</a></th>
+							<th>732815</th>
+							<th>5.14</th>
+						</tr>
+								<tr>
+							<th>10-08</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300793/nc.shtml"">
+								佳禾智能</a></th>
+							<th>300793</th>
+							<th>13.43</th>
+						</tr>
+								<tr>
+							<th>09-25</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603786/nc.shtml"">
+								科博达</a></th>
+							<th>732786</th>
+							<th>26.89</th>
+						</tr>
+								<tr>
+							<th>09-25</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688368/nc.shtml"">
+								晶丰明源</a></th>
+							<th>787368</th>
+							<th>56.68</th>
+						</tr>
+								<tr>
+							<th>09-19</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688036/nc.shtml"">
+								传音控股</a></th>
+							<th>787036</th>
+							<th>35.15</th>
+						</tr>
+								<tr>
+							<th>09-18</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300792/nc.shtml"">
+								壹网壹创</a></th>
+							<th>300792</th>
+							<th>38.30</th>
+						</tr>
+								<tr>
+							<th>09-18</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688030/nc.shtml"">
+								山石网科</a></th>
+							<th>787030</th>
+							<th>21.06</th>
+						</tr>
+								<tr>
+							<th>09-18</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688068/nc.shtml"">
+								热景生物</a></th>
+							<th>787068</th>
+							<th>29.46</th>
+						</tr>
+								<tr>
+							<th>09-16</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688116/nc.shtml"">
+								天奈科技</a></th>
+							<th>787116</th>
+							<th>16.00</th>
+						</tr>
+								<tr>
+							<th>09-12</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300791/nc.shtml"">
+								仙乐健康</a></th>
+							<th>300791</th>
+							<th>54.73</th>
+						</tr>
+								<tr>
+							<th>09-10</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300790/nc.shtml"">
+								宇瞳光学</a></th>
+							<th>300790</th>
+							<th>18.16</th>
+						</tr>
+								<tr>
+							<th>09-05</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz002962/nc.shtml"">
+								五方光电</a></th>
+							<th>002962</th>
+							<th>14.39</th>
+						</tr>
+								<tr>
+							<th>08-28</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603927/nc.shtml"">
+								中科软</a></th>
+							<th>732927</th>
+							<th>16.18</th>
+						</tr>
+								<tr>
+							<th>08-28</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688168/nc.shtml"">
+								安博通</a></th>
+							<th>787168</th>
+							<th>56.88</th>
+						</tr>
+								<tr>
+							<th>08-27</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz002961/nc.shtml"">
+								瑞达期货</a></th>
+							<th>002961</th>
+							<th>5.57</th>
+						</tr>
+								<tr>
+							<th>08-21</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603093/nc.shtml"">
+								南华期货</a></th>
+							<th>732093</th>
+							<th>4.84</th>
+						</tr>
+								<tr>
+							<th>08-15</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603755/nc.shtml"">
+								日辰股份</a></th>
+							<th>732755</th>
+							<th>15.70</th>
+						</tr>
+								<tr>
+							<th>08-14</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300789/nc.shtml"">
+								唐源电气</a></th>
+							<th>300789</th>
+							<th>35.58</th>
+						</tr>
+								<tr>
+							<th>08-14</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603992/nc.shtml"">
+								松霖科技</a></th>
+							<th>732992</th>
+							<th>13.54</th>
+						</tr>
+								<tr>
+							<th>08-14</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz002959/nc.shtml"">
+								小熊电器</a></th>
+							<th>002959</th>
+							<th>34.25</th>
+						</tr>
+								<tr>
+							<th>08-12</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz003816/nc.shtml"">
+								中国广核</a></th>
+							<th>003816</th>
+							<th>2.49</th>
+						</tr>
+								<tr>
+							<th>08-06</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz300787/nc.shtml"">
+								海能实业</a></th>
+							<th>300787</th>
+							<th>27.33</th>
+						</tr>
+								<tr>
+							<th>07-31</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603115/nc.shtml"">
+								海星股份</a></th>
+							<th>732115</th>
+							<th>10.18</th>
+						</tr>
+								<tr>
+							<th>07-31</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688321/nc.shtml"">
+								微芯生物</a></th>
+							<th>787321</th>
+							<th>20.43</th>
+						</tr>
+								<tr>
+							<th>07-30</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz002960/nc.shtml"">
+								青鸟消防</a></th>
+							<th>002960</th>
+							<th>17.34</th>
+						</tr>
+								<tr>
+							<th>07-29</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688188/nc.shtml"">
+								柏楚电子</a></th>
+							<th>787188</th>
+							<th>68.58</th>
+						</tr>
+								<tr>
+							<th>07-29</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688099/nc.shtml"">
+								晶晨股份</a></th>
+							<th>787099</th>
+							<th>38.50</th>
+						</tr>
+								<tr>
+							<th>07-25</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603662/nc.shtml"">
+								柯力传感</a></th>
+							<th>732662</th>
+							<th>19.83</th>
+						</tr>
+								<tr>
+							<th>07-24</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603530/nc.shtml"">
+								神马电力</a></th>
+							<th>732530</th>
+							<th>5.94</th>
+						</tr>
+								<tr>
+							<th>07-18</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz002966/nc.shtml"">
+								苏州银行</a></th>
+							<th>002966</th>
+							<th>7.86</th>
+						</tr>
+								<tr>
+							<th>07-18</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603613/nc.shtml"">
+								国联股份</a></th>
+							<th>732613</th>
+							<th>15.13</th>
+						</tr>
+								<tr>
+							<th>07-17</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sz002957/nc.shtml"">
+								科瑞技术</a></th>
+							<th>002957</th>
+							<th>15.10</th>
+						</tr>
+								<tr>
+							<th>07-17</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603279/nc.shtml"">
+								景津环保</a></th>
+							<th>732279</th>
+							<th>13.56</th>
+						</tr>
+								<tr>
+							<th>07-16</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603983/nc.shtml"">
+								丸美股份</a></th>
+							<th>732983</th>
+							<th>20.54</th>
+						</tr>
+								<tr>
+							<th>07-16</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh603687/nc.shtml"">
+								大胜达</a></th>
+							<th>732687</th>
+							<th>7.35</th>
+						</tr>
+								<tr>
+							<th>07-12</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688066/nc.shtml"">
+								航天宏图</a></th>
+							<th>787066</th>
+							<th>17.25</th>
+						</tr>
+								<tr>
+							<th>07-12</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688388/nc.shtml"">
+								嘉元科技</a></th>
+							<th>787388</th>
+							<th>28.26</th>
+						</tr>
+								<tr>
+							<th>07-12</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688033/nc.shtml"">
+								天宜上佳</a></th>
+							<th>787033</th>
+							<th>20.37</th>
+						</tr>
+								<tr>
+							<th>07-12</th>
+							<th><a target=""_blank"" href=""http://finance.sina.com.cn/realstock/company/sh688028/nc.shtml"">
+								沃尔德</a></th>
+							<th>787028</th>
+							<th>26.68</th>
+						</tr>
+			</tbody>
+	</table>
+</div>
+
+</body>
+</html>
+"
